@@ -1,7 +1,9 @@
 ### Hi there, I'm Tom Huynh 👋
 
 
-## I'm a Machine Learning Teacher, Scientist and Engineer!!
+I'm a Machine Learning Teacher, Scientist and Engineer!!
+
+Here is the place where I work and opensource cool stuffs.
 
 
 ### Connect with me:
