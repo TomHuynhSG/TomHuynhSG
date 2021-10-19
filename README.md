@@ -8,6 +8,9 @@ Here is the place where I work and opensource cool stuffs.
 
 💬 ask me about anything, I'm happy to help!
 
+<img align="right" alt="GIF" src="https://github.com/TomHuynhSG/TomHuynhSG/blob/main/assets/code.gif?raw=true" width="450" height="270" />
+<br />
+
 ### Connect with me:
 
 <a href="mailto:tomhuynhsg@gmail.com">
@@ -24,8 +27,7 @@ Here is the place where I work and opensource cool stuffs.
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.TomHuynhSG)
-<img align="right" alt="GIF" src="https://github.com/TomHuynhSG/TomHuynhSG/blob/main/assets/code.gif?raw=true" width="500" height="330" />
-<br />
+
 
 ### Languages & Frameworks:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
