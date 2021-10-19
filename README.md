@@ -17,7 +17,7 @@ Here is the place where I work and opensource cool stuffs.
   <img align="left" alt="Tom Huynh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/TomHuynhSG/TomHuynhSG/main/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/TomHuynhSG">
-  <img align="left" alt="Tom Huynh's Github" width="22px" src="https://raw.githubusercontent.com/TomHuynhSG/TomHuynhSG/main/assets/github.svg" />
+  <img align="left" alt="Tom Huynh's Github" width="22px" src="https://raw.githubusercontent.com/TomHuynhSG/TomHuynhSG/main/assets/github.png" />
 </a>
 <a href="https://www.facebook.com/tomhuynhsg/">
   <img align="left" alt="Tom Huynh's Facebook" width="22px" src="https://raw.githubusercontent.com/TomHuynhSG/TomHuynhSG/main/assets/facebook.svg" />
