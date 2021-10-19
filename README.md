@@ -1,54 +1,49 @@
-### Hi there, I'm Tom Huynh 👋
 
 
-I'm a Machine Learning Teacher, Scientist and Engineer!!
+### Hi there, I'm Tom Huynh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+I'm a Machine Learning Teacher, Scientist and Engineer!
 
 Here is the place where I work and opensource cool stuffs.
 
+💬 ask me about anything, I'm happy to help!
 
 ### Connect with me:
 
+<a href="mailto:tomhuynhsg@gmail.com">
+  <img align="left" alt="Tom Huynh's email" width="22px" src="https://raw.githubusercontent.com/TomHuynhSG/TomHuynhSG/main/assets/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tomhuynhsg/">
+  <img align="left" alt="Tom Huynh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/TomHuynhSG/TomHuynhSG/main/assets/linkedin.svg" />
+</a>
+<a href="https://github.com/TomHuynhSG">
+  <img align="left" alt="Tom Huynh's Github" width="22px" src="https://raw.githubusercontent.com/TomHuynhSG/TomHuynhSG/main/assets/github.svg" />
+</a>
+<a href="https://www.facebook.com/tomhuynhsg/">
+  <img align="left" alt="Tom Huynh's Facebook" width="22px" src="https://raw.githubusercontent.com/TomHuynhSG/TomHuynhSG/main/assets/facebook.svg" />
+</a>
 
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/59/59439.png" />][facebook]
-
+![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.TomHuynhSG)
+<img align="right" alt="GIF" src="https://github.com/TomHuynhSG/TomHuynhSG/blob/main/assets/code.gif?raw=true" width="500" height="330" />
 <br />
 
-### Languages and Frameworks:
-
-<img align="left" alt="Tensorflow" height="26px" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/956/166/datas/original.png"/>
-
-<img align="left" alt="Tensorflow" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"/>
-
-<img align="left" alt="Tensorflow" height="26px" src="https://www.clipartmax.com/png/middle/479-4795970_for-python-programming-language.png"/>
-
-<img align="left" alt="Tensorflow" height="26px" src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png"/>
-
-
-<img align="left" alt="Tensorflow" height="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"/>
-
-<img align="left" alt="Tensorflow" height="26px" src="https://www.pngitem.com/pimgs/m/197-1973343_sql-database-icon-png-transparent-png.png"/>
-
-
-<img align="left" alt="Tensorflow" height="26px" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png"/>
-
-
-<img align="left" alt="Tensorflow" height="26px" src="https://yt3.ggpht.com/ytc/AKedOLSFDRWxkoIluD46Gws0mUOuQ-uz9cO5IMKZFB5x=s900-c-k-c0x00ffffff-no-rj"/>
-
-<img align="left" alt="Tensorflow" height="36px" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png"/>
-
-<img align="left" alt="Tensorflow" height="30px" src="https://png.pngitem.com/pimgs/s/174-1747814_php-logo-programmer-computer-software-elephant-php-logo.png"/>
-
-<img align="left" alt="Tensorflow" height="28px" src="https://www.clipartmax.com/png/middle/240-2409409_c-programming-icon-c-programming-language-icon.png"/>
-
-<img align="left" alt="Tensorflow" height="28px" src="https://cdn-icons-png.flaticon.com/512/825/825535.png"/>
-
-<br />
-<br />
-
----
+### Languages & Frameworks:
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1300px-PyTorch_logo_icon.svg.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://yt3.ggpht.com/ytc/AKedOLSFDRWxkoIluD46Gws0mUOuQ-uz9cO5IMKZFB5x=s900-c-k-c0x00ffffff-no-rj"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/825/825535.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-[facebook]: https://www.facebook.com/tomhuynhsg/
-[linkedin]: https://www.linkedin.com/in/tomhuynhsg/
