@@ -1,6 +1,5 @@
 ![](https://github.com/TomHuynhSG/TomHuynhSG/blob/main/assets/intro_header.png?raw=true)
-
-<img align="right" alt="GIF" src="https://github.com/TomHuynhSG/TomHuynhSG/blob/main/assets/code.gif?raw=true" width="300" height="200" />
+<img align="right" alt="GIF" src="https://github.com/TomHuynhSG/TomHuynhSG/blob/main/assets/code.gif?raw=true" width="450" height="270" />
 <br />
 
 ### Hi there, I'm Tom Huynh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
@@ -35,7 +34,10 @@ Btw, you are the ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.To
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3191c3.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-3366d0?style=flat-square&logo=google-data-studio&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=Matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![D3](https://img.shields.io/badge/-D3.js-f89d43?style=flat-square&logo=d3.js&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-jupyter_notebook-%23f37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -53,6 +55,10 @@ Btw, you are the ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.To
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-f7f700.svg?style=flat-square&logo=hadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-db571b.svg?style=flat-square&logo=apachespark&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=Airtable&logoColor=white)
+
 
 #### Web Design & Development:
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
@@ -70,9 +76,15 @@ Btw, you are the ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.To
 #### System Admin Tools & OSes:
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 
 #### Other Tools:
@@ -85,11 +97,9 @@ Btw, you are the ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.To
 
 #### Other Languages:
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white)
 ![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white)
 ![Haskell](https://custom-icon-badges.herokuapp.com/badge/Haskell-594a81.svg?style=flat-square&logo=haskell&logoColor=white)
 ![Prolog](https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?style=flat-square&logo=swi-prolog&logoColor=white)
-
-
