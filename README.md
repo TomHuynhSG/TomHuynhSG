@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Tom Huynh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-I'm a Machine Learning Teacher, Scientist and Engineer!
+I'm a Machine Learning Lecturer, Scientist and Engineer!
 
 Here is the place where I work and opensource cool stuffs.
 
