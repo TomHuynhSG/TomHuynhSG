@@ -20,8 +20,8 @@ Btw, you are the ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.To
 
 <a href="mailto:tomhuynhsg@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tomhuynhsg/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/tomhuynhsg/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/TomHuynhSG"><img src="https://img.shields.io/badge/github-800080.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--<a href="https://www.facebook.com/tomhuynhsg/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
 
 
 ### 🔨 Languages & Frameworks:
