@@ -103,3 +103,4 @@ Btw, you are the ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.To
 ![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white)
 ![Haskell](https://custom-icon-badges.herokuapp.com/badge/Haskell-594a81.svg?style=flat-square&logo=haskell&logoColor=white)
 ![Prolog](https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?style=flat-square&logo=swi-prolog&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
