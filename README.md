@@ -73,7 +73,7 @@ Btw, you are the ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.To
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23806b20.svg?style=flat-square&logo=apache-tomcat&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23b8a04d.svg?style=flat-square&logo=apache-tomcat&logoColor=white)
 
 #### System Admin Tools, DevOps & OSes:
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
