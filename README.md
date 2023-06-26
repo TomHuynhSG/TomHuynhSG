@@ -12,7 +12,7 @@ You can check out my [Linkedin Profile](https://www.linkedin.com/in/tomhuynhsg/)
 
 💬 ask me about anything, I'm happy to help!
 
-Btw, you are the ![](https://visitor-badge.glitch.me/badge?page_id=TomHuynhSG.TomHuynhSG)! Thanks for your visit!
+Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTomHuynhSG&count_bg=%233D3DFF&title_bg=%23E61E2A&icon=coveralls.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
 ### 📫 Connect with me: 
